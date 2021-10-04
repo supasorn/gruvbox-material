@@ -846,7 +846,7 @@ call gruvbox_material#highlight('MatchWord', s:palette.none, s:palette.none, 'un
 call gruvbox_material#highlight('MatchWordCur', s:palette.none, s:palette.none, 'underline')
 " }}}
 " easymotion/vim-easymotion {{{
-highlight! link EasyMotionTarget Search
+"highlight! link EasyMotionTarget Search
 highlight! link EasyMotionShade Grey
 " }}}
 " justinmk/vim-sneak {{{
